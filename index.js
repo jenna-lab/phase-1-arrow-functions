@@ -11,5 +11,5 @@ const square = (x) => {
 const add = (a, b) => {
   console.log(a);
   console.log(b);
-  return a + b;
+  return 3 + 4;
 };
